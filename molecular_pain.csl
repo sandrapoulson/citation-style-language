@@ -48,7 +48,7 @@
         </if>
         <else-if>
           <group>
-            <text variable="URL" prefix=" Available at "/>
+            <text variable="URL" prefix=" Available from "/>
           </group>
         </else-if>
       </choose>
